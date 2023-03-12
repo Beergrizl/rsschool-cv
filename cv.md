@@ -31,3 +31,20 @@ function highAndLow(numbers){
   return `${arr[arr.length-1]} ${arr[0]}`
   };
 ```
+## PROJECTS
+  ********
+**Todolist**
+Stack: CSS, JavaScript, TypeScript, React, Redux, MaterialUI;
+Using TypeScript for best code control; Bug fixing,deploying;
+Covering code with unit tests. [Link to GitHub](https://github.com/Beergrizl/todolist3)
+## EDUCATION
+   *********
+**It-incubator**
+* Front-end developer (react, redux, typescript, js) 2021
+**Belarusian National Technical University, Minsk**
+* Professional educator , Mechanical engineering 2009
+## LANGUAGES
+   *********
+* English - Intermediate
+* Russian - Native
+
