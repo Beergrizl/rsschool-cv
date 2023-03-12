@@ -1,29 +1,24 @@
 ## ARTSIOM SADOUSKI
-*****
 ## CONTACTS
-******
-* Address: Minsk, Belarus
-* Email: artsiomsadouski@gmail.com
-* GitHub: [Beergrizl](https://github.com/Beergrizl)
-* LinkedIn: [Artsiom Sadouski](https://www.linkedin.com/in/sadouski)
+ * Address: Minsk, Belarus
+ * Email: artsiomsadouski@gmail.com
+ * GitHub: [Beergrizl](https://github.com/Beergrizl)
+ * LinkedIn: [Artsiom Sadouski](https://www.linkedin.com/in/sadouski)
 ## ABOUT ME
-******
 I am front-end developer. I have a experience in Creating web pages,
 client-side single-page applications using react, redux, react-router-dom,
 redux-thunk, Formik, Axios, Material UI. Refactoring, bug fixing, migration to TypeScript, registration and login form creation. Check the correctness of the code with Unit Tests.
 ## SKILLS
-******
-* React / React Hooks
-* Redux / Redux Thunk
-* JavaScript / TypeScript
-* Formik / Redux-form
-* REST API / Axios
-* Unit tests (Jest)
-* Git
-* Material-UI
-* HTML / CSS / SCSS
-# CODE EXAMPLES
-**********
+ * React / React Hooks
+ * Redux / Redux Thunk
+ * JavaScript / TypeScript
+ * Formik / Redux-form
+ * REST API / Axios
+ * Unit tests (Jest)
+ * Git
+ * Material-UI
+ * HTML / CSS / SCSS
+## CODE EXAMPLES
 ```javascript
 function highAndLow(numbers){
   let arr = numbers.split(' ')
@@ -32,19 +27,16 @@ function highAndLow(numbers){
   };
 ```
 ## PROJECTS
-  ********
 **Todolist**
 Stack: CSS, JavaScript, TypeScript, React, Redux, MaterialUI;
 Using TypeScript for best code control; Bug fixing,deploying;
 Covering code with unit tests. [Link to GitHub](https://github.com/Beergrizl/todolist3)
 ## EDUCATION
-   *********
 **It-incubator**
 * Front-end developer (react, redux, typescript, js) 2021
 **Belarusian National Technical University, Minsk**
 * Professional educator , Mechanical engineering 2009
 ## LANGUAGES
-   *********
-* English - Intermediate
-* Russian - Native
+ * English - Intermediate
+ * Russian - Native
 
